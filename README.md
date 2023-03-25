@@ -5,4 +5,4 @@ ChatGPT的精彩问答总结记录，有关深度学习、Python、C、C++、Jav
 
 ----
 
-chatgpt-prompt提示词-中文版.md|chatgpt中文版提示版，可以让它充当固定角色完成指定任务
+chatgpt-prompt提示词-中文版.md | chatgpt中文版提示版，可以让它充当固定角色完成指定任务
